@@ -1,0 +1,32 @@
+.heading{
+    font-size: 28px;
+    width: 100%;
+    box-shadow: 5px 5px 20px rgb(255, 17, 116);
+    font-family: comic sans ms;
+    font-weight: bold;
+}
+#note{
+    font-size: 18px;
+    color: rebeccapurple;
+    font-family: Georgia;
+    font-weight: bold;
+}
+
+.copy_right_footer{
+    background-color: rgb(31, 241, 122);
+    color: rgb(255, 0, 0);
+    line-height: 3;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+}
+canvas{
+    border: 5px ridge orange;
+    box-shadow: 5px 5px 20px greenyellow;
+    border-radius: 20px;
+    margin-top: 25px;
+
+}
